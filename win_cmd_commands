@@ -1,3 +1,5 @@
+0) https://tutorial.djangogirls.org/ru/intro_to_command_line/
+
 1) Launch the command line
 win + r cmd
 
@@ -16,6 +18,11 @@ cd /?
 6) List of catalogs and files
 dir
 
-7) Changing
+7) Changing various
 Tab key
 
+8) Creating new directory
+mkdir NewCatalog
+
+9) Remove category
+level up by .. and rmdir name_of_dir
